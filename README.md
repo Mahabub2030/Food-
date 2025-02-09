@@ -11,9 +11,11 @@
 
   <h2 align="center">Foodie - Fast food website</h2>
 
-  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ ## 📌 Project Overview
+Foodie is a modern, fully responsive fast-food website built using **HTML, CSS, and JavaScript**. The website provides a seamless experience for users to browse menu items, interact with features, and navigate efficiently on all devices.
 
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
+
+  <a href="[https://codewithsadee.github.io/foodie/](https://mahabub2030.github.io/Food-/)"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -35,11 +37,8 @@ To run **Foodie** locally, run this command on your git bash:
 
 # Foodie - Fast Food Website
 
-## 📌 Project Overview
-Foodie is a modern, fully responsive fast-food website built using **HTML, CSS, and JavaScript**. The website provides a seamless experience for users to browse menu items, interact with features, and navigate efficiently on all devices.
 
-## 🚀 Live Demo
-[Insert Live Link Here]
+
 
 ## 🎯 Features
 - ✅ **Fully Responsive** – Works perfectly on mobile, tablet, and desktop.
