@@ -15,7 +15,7 @@
 Foodie is a modern, fully responsive fast-food website built using **HTML, CSS, and JavaScript**. The website provides a seamless experience for users to browse menu items, interact with features, and navigate efficiently on all devices.
 
 
-  <a href="[https://codewithsadee.github.io/foodie/](https://mahabub2030.github.io/Food-/)"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/foodie/](https://mahabub2030.github.io/Food-/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
