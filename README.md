@@ -33,23 +33,50 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Foodie** locally, run this command on your git bash:
 
-Linux and macOS:
+# Foodie - Fast Food Website
 
-```bash
+## 📌 Project Overview
+Foodie is a modern, fully responsive fast-food website built using **HTML, CSS, and JavaScript**. The website provides a seamless experience for users to browse menu items, interact with features, and navigate efficiently on all devices.
+
+## 🚀 Live Demo
+[Insert Live Link Here]
+
+## 🎯 Features
+- ✅ **Fully Responsive** – Works perfectly on mobile, tablet, and desktop.
+- ✅ **Modern UI/UX** – Clean, attractive design with smooth animations.
+- ✅ **Interactive Components** – Dynamic JavaScript for better user experience.
+- ✅ **Fast Loading** – Optimized for speed and performance.
+- ✅ **Easy Navigation** – Well-structured layout for improved usability.
+
+## 🛠️ Technologies Used
+- **HTML** – Structure of the website
+- **CSS** – Styling and layout design
+- **JavaScript** – Interactive features
+
+## 🔧 Installation & Setup
+To run this project locally, follow these steps:
+
+### **For Linux & macOS:**
+```sh
 sudo git clone https://github.com/codewithsadee/foodie.git
+cd foodie
+open index.html
 ```
 
-Windows:
-
-```bash
+### **For Windows:**
+```sh
 git clone https://github.com/codewithsadee/foodie.git
+cd foodie
+start index.html
 ```
 
-### Contact
+## 📸 Screenshots
+[Add project screenshots here]
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## 📞 Contact
+For inquiries, feel free to reach out via **Twitter** or GitHub.
 
-### License
+## 📜 License
+This project is **free to use** and does not require any license.
 
-This project is **free to use** and does not contains any license.
-# Food-
+👉 **Live Demo:** [Insert your deployed link here] 🚀
