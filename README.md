@@ -69,13 +69,11 @@ cd foodie
 start index.html
 ```
 
-## 📸 Screenshots
-[Add project screenshots here]
+
 
 ## 📞 Contact
-For inquiries, feel free to reach out via **Twitter** or GitHub.
+For inquiries, mahabubalam407557@gmail.com
 
 ## 📜 License
 This project is **free to use** and does not require any license.
 
-👉 **Live Demo:** [Insert your deployed link here] 🚀
